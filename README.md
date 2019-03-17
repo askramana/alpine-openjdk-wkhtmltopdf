@@ -3,7 +3,7 @@
 Base Docker image having `openjdk:8-jre-alpine` with `wkhtmltopdf` dependency
 
 ### This repository is for you, if
-- You're running building over [openjdk:8-jre-alpine](https://github.com/docker-library/openjdk/blob/dd54ae37bc44d19ecb5be702d36d664fed2c68e4/8/jre/alpine/Dockerfile),
+- You're building over [openjdk:8-jre-alpine](https://github.com/docker-library/openjdk/blob/dd54ae37bc44d19ecb5be702d36d664fed2c68e4/8/jre/alpine/Dockerfile),
 - And need [wkhtmltopdf](http://wkhtmltopdf.org) to convert an HTML to PDF file.
 
 ### Usage
